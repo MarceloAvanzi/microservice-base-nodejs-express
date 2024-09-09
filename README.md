@@ -1,2 +1,2 @@
 # microservice-base-nodejs-express
-(Expressjs Backend) DDD Microservice base ready to use
+(Expressjs Backend) Clean Archquitecture based microservice w/ auth ready to use
